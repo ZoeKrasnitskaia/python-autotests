@@ -1,1 +1,1 @@
-# My Python Project Sandbox
+# Информация о проекте
